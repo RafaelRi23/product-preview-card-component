@@ -27,13 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](./screenshot.jpg)
-![Mobile](./screenshot.jpg)
+![Desktop](./screenshot/desktop.jpeg)
+![Mobile](./screenshot/mobile.jpeg.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/RafaelRi23/product-preview-card-component)
-- Live Site URL: [Add live site URL here](https://rafaelri23.github.io/product-preview-card-component/)
+- Solution URL: [Solution](https://github.com/RafaelRi23/product-preview-card-component)
+- Live Site URL: [Site](https://rafaelri23.github.io/product-preview-card-component/)
 
 ## My process
 
